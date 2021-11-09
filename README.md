@@ -1,0 +1,2 @@
+- 👋 Hola, Soy @TicoNoSoyDev
+- No se programar quiero aprender jeje
