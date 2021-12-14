@@ -1,3 +1,3 @@
 - 👋 Hola, Soy @Tico
 - No se programar quiero aprender jeje
-- https://ganlvtech.github.io/lua-simple-encrypt/
+- https://forum.cfx.re/t/help-eup-add-on-clothing-in-fivem-server/23937
